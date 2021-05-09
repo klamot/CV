@@ -24,5 +24,13 @@ hr {
   width: 6%;
  }
 
-</style>
+ table {
+   padding: 5px;
+ }
 
+ td, th {
+   padding-bottom: 1em;
+   padding-right: 1em;
+ }
+
+</style>
